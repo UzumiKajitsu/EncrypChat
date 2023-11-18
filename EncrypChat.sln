@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrypChat", "EncrypChat\EncrypChat.csproj", "{2BB25558-E9F8-43E3-B551-FA0485DAF1D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{85A433C0-5FA9-49E7-9544-B979CA527DA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{5F07EE86-D207-4A0A-BBC6-702B1DEEB9F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB25558-E9F8-43E3-B551-FA0485DAF1D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB25558-E9F8-43E3-B551-FA0485DAF1D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB25558-E9F8-43E3-B551-FA0485DAF1D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB25558-E9F8-43E3-B551-FA0485DAF1D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85A433C0-5FA9-49E7-9544-B979CA527DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85A433C0-5FA9-49E7-9544-B979CA527DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85A433C0-5FA9-49E7-9544-B979CA527DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85A433C0-5FA9-49E7-9544-B979CA527DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F07EE86-D207-4A0A-BBC6-702B1DEEB9F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F07EE86-D207-4A0A-BBC6-702B1DEEB9F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F07EE86-D207-4A0A-BBC6-702B1DEEB9F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F07EE86-D207-4A0A-BBC6-702B1DEEB9F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5C5398-D3DE-4B68-9B2C-4ECF1F5099A2}
+	EndGlobalSection
+EndGlobal
